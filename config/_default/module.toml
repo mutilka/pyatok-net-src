@@ -53,10 +53,10 @@
   target = "i18n"
 
 ## layouts
-[[mounts]]
+##[[mounts]]
 ##  source = "node_modules/@thulite/core/layouts"
-  source = "layouts"
-  target = "layouts"
+##  source = "layouts"
+##  target = "layouts"
 
 [[mounts]]
 ##  source = "node_modules/@thulite/seo/layouts"
@@ -73,10 +73,11 @@
   source = "node_modules/@thulite/seo/layouts"
   target = "layouts"
 
-[[mounts]]
+##[[mounts]]
+## Отключил загрузку модуля, чтобы не преобразовывал в webp
 ##  source = "node_modules/@thulite/inline-svg/layouts"
-  source = "node_modules/@thulite/images/layouts"
-  target = "layouts"
+##  source = "node_modules/@thulite/images/layouts"
+##  target = "layouts"
 
 [[mounts]]
 ##  source = "layouts"
@@ -91,3 +92,9 @@
 [[mounts]]
   source = "static"
   target = "static"
+
+## layouts
+[[mounts]]
+##  source = "node_modules/@thulite/core/layouts"
+  source = "layouts"
+  target = "layouts"
