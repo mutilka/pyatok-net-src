@@ -1,5 +1,5 @@
-title = "My Docs"
-baseurl = "http://localhost/"
+title = "Pyatok.NET"
+baseurl = "https://pyatok.net/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -11,6 +11,7 @@ languageCode = "en-US"
 pagerSize = 10
 rssLimit = 10
 summarylength = 20 # 70 (default)
+publishDir = '../../pyatok-net-prod/public'
 
 # Multilingual
 defaultContentLanguage = "en"
@@ -63,6 +64,9 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
 
 [minify.tdewolff.html]
   keepWhitespace = false
+
+[pagination]
+pagerSize = 10
 
 [related]
   threshold = 80

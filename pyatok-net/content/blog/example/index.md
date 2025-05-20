@@ -1,5 +1,6 @@
 ---
-title: "Example Post"
+title: "Секретная страница"
+token: "xyz123"
 description: "Just an example post."
 summary: "You can use blog posts for announcing product updates and features."
 date: 2023-09-07T16:27:22+02:00
@@ -8,9 +9,9 @@ draft: false
 weight: 50
 categories: []
 tags: []
-contributors: []
+contributors: [mitulka, veroncher]
 pinned: false
-homepage: false
+homepage: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
