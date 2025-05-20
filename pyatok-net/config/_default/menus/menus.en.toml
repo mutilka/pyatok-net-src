@@ -37,6 +37,11 @@
 [[main]]
   name = "Заметки"
   url = "/blog/"
+  weight = 20
+
+[[main]]
+  name = "Тайная комната"
+  url = "/restricted/"
   weight = 30
 
 # [[social]]

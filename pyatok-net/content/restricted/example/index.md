@@ -1,13 +1,13 @@
 ---
-title: "Example blog post"
-summary: "You can use blog posts for announcing product updates and features."
-date: 2023-09-07T16:27:22+02:00
-lastmod: 2023-09-07T16:27:22+02:00
+title: "restricted blog  post"
+summary: ""
+date: 2025-05-19T16:27:22+02:00
+lastmod: 2025-05-19T16:27:22+02:00
 draft: false
 weight: 50
 categories: []
 tags: []
-contributors: [mitulka, veroncher]
+contributors: [mitulka]
 pinned: false
 homepage: true
 seo:
@@ -22,3 +22,6 @@ Well-thought-through product announcements will help increase feature awareness 
 ## Further reading
 
 - Read [How to announce product updates and features](https://canny.io/blog/announce-product-updates-features/)
+
+
+!!!???
