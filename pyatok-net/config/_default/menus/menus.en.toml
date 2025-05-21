@@ -78,6 +78,22 @@
 #   pageRef = "/docs/resources"
 #   weight = 30
 
+[[sidebar_docs]]
+  name = "Проекты"
+  pageRef = "/docs/"
+  weight = 10
+
+[[sidebar_docs]]
+  name = "Заметки"
+  pageRef = "/blog/"
+  weight = 20
+
+#[[sidebar_docs]]
+#  name = "Тайная комната"
+#  pageRef = "/restricted/"
+#  weight = 30
+
+
 [[footer]]
   name = "Privacy Policy"
   url = "/privacy/"

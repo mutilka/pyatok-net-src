@@ -45,8 +45,8 @@ mainSections = ["docs"]
 
   # Nav
   sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
-  toTopButton = false # false (default) or true
-  breadcrumbTrail = false # false (default) or true
+  toTopButton = true # false (default) or true
+  breadcrumbTrail = true # false (default) or true
   headlineHash = true # true (default) or false
   scrollSpy = true # true (default) or false
 
@@ -63,10 +63,10 @@ mainSections = ["docs"]
   backgroundDots = true # true (default) or false
 
   # Homepage
-  sectionFooter = false # false (default) or true
+  sectionFooter = true # false (default) or true
 
   # Blog
-  relatedPosts = false # false (default) or true
+  relatedPosts = true # false (default) or true
   imageList = true # true (default) or false
   imageSingle = true # true (default) or false
 
@@ -129,7 +129,7 @@ mainSections = ["docs"]
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
-    name = "Thulite" # Name of Organization or Person
+    name = "Pyatok.net" # Name of Organization or Person
     sameAs = [] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
     images = ["cover.png"] # ["cover.png"] (default)
     article = [] # Article sections

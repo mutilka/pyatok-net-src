@@ -1,5 +1,5 @@
 ---
-title: "restricted"
+title: "Тайная комната"
 description: ""
 summary: ""
 date: 2025-05-07T16:21:44+02:00

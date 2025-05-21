@@ -42,4 +42,4 @@ seo:
 +375 29 148 56 43 Дмитрий
 
 ### Фотографии
-![Продается квартира. Минск, Партизанский проспект, дом 109](../img/1-prodaetsya-kvartira-g-minsk-partizanskij-pr-t-d-109.jpg)
+![Продается квартира. Минск, Партизанский проспект, дом 109](img/01-prodaetsya-kvartira-minsk-partizanskij-prospect-d-109.jpg)
