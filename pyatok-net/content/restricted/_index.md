@@ -1,7 +1,8 @@
 ---
-title: "Тайная комната"
+title: ""
 description: ""
 summary: ""
+slug:
 date: 2025-05-07T16:21:44+02:00
 lastmod: 2025-05-07T16:21:44+02:00
 draft: false
