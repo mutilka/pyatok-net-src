@@ -6,7 +6,7 @@ summary: "SUMMARY"
 date: 2025-05-14T00:00:01+02:00
 lastmod: 2025-05-14T00:00:02+02:00
 draft: true
-weight: 10
+weight:
 toc: true
 categories: []
 tags: [it, настройка]

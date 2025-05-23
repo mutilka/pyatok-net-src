@@ -18,7 +18,7 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2020-2024 Thulite"
+copyRight = "Copyright (c) 2007-2025 Pyatok.NET"
 
 [build.buildStats]
   enable = true

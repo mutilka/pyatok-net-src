@@ -1,21 +1,25 @@
 ---
-title: "Example blog post"
-summary: "You can use blog posts for announcing product updates and features."
-date: 2023-09-07T16:27:22+02:00
-lastmod: 2023-09-07T16:27:22+02:00
-draft: false
-weight: 50
-categories: []
-tags: []
-contributors: [mitulka, veroncher]
+title: "Настройка физической кнопки на телефоне DooGee S41"
+description: "Рассказываю и показываю как настроить физическую кнопку на телефоне Doogee S41"
+slug: nastrojka-fizicheskoj-knopki-doogee-s41
+summary: "Мы используем блог для анонса статей или служебных заметок. Информация в них может быть не актуальной или даже не верной! Актуальную информацию смотрите в разделе «Проекты»."
+date: 2025-05-23T00:00:01+02:00
+lastmod: 2025-05-22T00:00:02+02:00
+draft: true
+weight:
+toc: true
+categories: [blog]
+tags: [it, настройка]
+contributors: [mitulka]
 pinned: false
-homepage: true
+homepage: false
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+
 
 Well-thought-through product announcements will help increase feature awareness and engage users with new functionality. Just like [sharing your public roadmap](https://canny.io/blog/should-you-have-a-public-roadmap/), it's also a great way to let potential customers see that you're constantly improving.
 
