@@ -1,5 +1,5 @@
 ---
-title: "Добро пожаловать на сайт Pyatok.net"
+title: "Добро пожаловать на сайт Pyatok.NET"
 description: ""
 lead: "Congrats on setting up a new Doks project!"
 date: 2023-09-07T16:33:54+02:00
