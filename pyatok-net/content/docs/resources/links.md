@@ -90,3 +90,6 @@ seo:
 - [«Маленький» сторонний проект – Новый сайт на базе Hugo – YummyRecipes.uk - Обсуждение](https://discourse.gohugo.io/t/a-little-side-project-new-hugo-based-website-yummyrecipes-uk/38328?page=2)
 - [Повторный визит на YummyRecipes.uk спустя 3 месяца (сайт на базе Hugo)](https://dariusz.wieckiewicz.org/en/revisiting-yummyrecipes-uk-after-3-months/)
 - [Повторный визит на YummyRecipes.uk спустя 3 месяца (сайт на базе Hugo) - Обсуждение](https://discourse.gohugo.io/t/revisiting-yummyrecipes-uk-after-3-months-a-hugo-based-website/39664)
+
+## schema.org
+- [Recipe](https://schema.org/Recipe)
