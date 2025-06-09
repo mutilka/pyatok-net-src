@@ -39,6 +39,7 @@ seo:
 - [Хостинг](https://vh121.hoster.by:2083)
 - [Nevigen](https://nevigen.com/ru/)
 - [Транслитерация для поисковиков Яндекс и Google](http://translit-online.ru/yandex.html)
+- [Настройка жестов в Chrome](https://forum.farmanager.com/viewtopic.php?t=13649)
 
 ## Курсы PHP
 - [Brainforce: PHP (1С)](https://brainforce.by/spec/lp/base-php/)
@@ -83,3 +84,9 @@ seo:
 ## Поликарбонат (остатки)
 - [P7B: Поликарбонат (Уручье)](http://www.p7b.by/sales/polikarbonat.html)
 - [Masterovoy21: Светопрозрачная кровля (Уручье)](https://masterovoy21.com/svetoprozrachnaya-krovlya/63-ucenennye-tovary-masterovoy-21.html)
+
+## Hugo
+- [«Маленький» сторонний проект – Новый сайт на базе Hugo – YummyRecipes.uk](https://dariusz.wieckiewicz.org/en/yummyrecipes-uk/)
+- [«Маленький» сторонний проект – Новый сайт на базе Hugo – YummyRecipes.uk - Обсуждение](https://discourse.gohugo.io/t/a-little-side-project-new-hugo-based-website-yummyrecipes-uk/38328?page=2)
+- [Повторный визит на YummyRecipes.uk спустя 3 месяца (сайт на базе Hugo)](https://dariusz.wieckiewicz.org/en/revisiting-yummyrecipes-uk-after-3-months/)
+- [Повторный визит на YummyRecipes.uk спустя 3 месяца (сайт на базе Hugo) - Обсуждение](https://discourse.gohugo.io/t/revisiting-yummyrecipes-uk-after-3-months-a-hugo-based-website/39664)
