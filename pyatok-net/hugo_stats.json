@@ -50,9 +50,15 @@
       "style",
       "summary",
       "svg",
+      "table",
+      "tbody",
+      "td",
       "template",
+      "th",
+      "thead",
       "time",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [

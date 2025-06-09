@@ -38,8 +38,7 @@ seo:
 ## Хостинг и инструменты
 - [Хостинг](https://vh121.hoster.by:2083)
 - [Nevigen](https://nevigen.com/ru/)
-- [Scratchboard](scratchboard)
-- [AliExpress: Поиск магазинов](https://m.ru.aliexpress.com/storesearch/list/.html?sortType=TC3_D&searchType=storeSearch&type=topSelling&sellerAdminSeq=120315218&showType=3x3)
+- [Транслитерация для поисковиков Яндекс и Google](http://translit-online.ru/yandex.html)
 
 ## Курсы PHP
 - [Brainforce: PHP (1С)](https://brainforce.by/spec/lp/base-php/)

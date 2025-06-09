@@ -57,6 +57,7 @@ module.exports = {
                 'page-item',
                 'page-link',
                 'not-content',
+                'fade', // Adding fade to the safelist section should fix the toTopButton issue https://github.com/thuliteio/doks/discussions/1175
                 ...whitelister(['./assets/scss/**/*.scss', './node_modules/@thulite/doks-core/assets/scss/components/_code.scss', './node_modules/@thulite/doks-core/assets/scss/components/_expressive-code.scss', './node_modules/@thulite/doks-core/assets/scss/common/_syntax.scss'])
             ]
         })
