@@ -2,7 +2,6 @@
   "htmlElements": {
     "tags": [
       "a",
-      "alt",
       "article",
       "aside",
       "base",
@@ -56,14 +55,12 @@
       "tbody",
       "td",
       "template",
-      "text",
       "th",
       "thead",
       "time",
       "title",
       "tr",
       "ul",
-      "username",
       "your"
     ],
     "classes": [
@@ -291,7 +288,6 @@
     ],
     "ids": [
       "TableOfContents",
-      "appendfilepath-true",
       "buttonColorMode",
       "crm",
       "doks-docs-nav",
@@ -322,16 +318,14 @@
       "toTop",
       "toc",
       "total-commander",
+      "windows",
       "бесплатный-хостинг-и-деплой-блога-на-hugo",
       "быстрая-регистрация",
-      "второй-заголовок",
       "деплой-на-github-pages",
       "добавление-алиасов-для-lampp",
       "добавьте",
-      "добавьте-шаблон-поста",
       "дубли-страниц",
       "если-что-то-не-работает",
-      "заголовок",
       "запуск-php-файлов-в-браузере-через-vscode",
       "использование-своего-домена",
       "кадастровый-номер",

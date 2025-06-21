@@ -69,6 +69,7 @@ seo:
 - [Vecteezy](https://www.vecteezy.com/)
 - [Vecta.io Nano](https://vecta.io/nano)
 - [Иконки соцсетей](https://habr.com/ru/post/135825/)
+- [Символы — когда текста не достаточно symbl.cc](https://symbl.cc/ru/)
 
 ## CRM
 - [EspoCRM](https://www.espocrm.com/) *Используем*
@@ -93,3 +94,6 @@ seo:
 
 ## schema.org
 - [Recipe](https://schema.org/Recipe)
+
+## Windows
+- [Как закрепить любой ярлык на панели задач](https://answers.microsoft.com/ru-ru/windows/forum/all/%d0%b7%d0%b0%d0%ba%d1%80%d0%b5%d0%bf%d0%bb%d0%b5/f3384689-dfbf-4073-9789-7fd36fca8581)
