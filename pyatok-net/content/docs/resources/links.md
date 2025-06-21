@@ -98,3 +98,4 @@ seo:
 ## Windows
 - [Как закрепить любой ярлык на панели задач](https://answers.microsoft.com/ru-ru/windows/forum/all/%d0%b7%d0%b0%d0%ba%d1%80%d0%b5%d0%bf%d0%bb%d0%b5/f3384689-dfbf-4073-9789-7fd36fca8581)
 - [Класическое контекстное меню Windows](https://remontka.pro/classic-context-menu-windows-11/)
+- [Проверка и восстановление системных файлов](https://remontka.pro/taskbar-icons-missing-windows/)
