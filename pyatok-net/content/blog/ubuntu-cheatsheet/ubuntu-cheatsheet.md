@@ -369,17 +369,3 @@ seo:
   lp -d r290 /etc/nsswitch.conf
 ```
 - Выдыхайте!
-
-## Total Commander
-
-### Настройка стрелок как PageUp/PageDown
-
-- Открыть файл конфигурации: `Конфигурация \ Редактировать файлы конфигурации`
-- Открывается 2 файла: `wincmd.ini`, `wcx_ftp.ini`
-- В `wincmd.ini` после `[Configuration]` добавить:
-
-```html
-  SpecialCursorMovement=9
-```
-
-- Перезапустить Total Commander

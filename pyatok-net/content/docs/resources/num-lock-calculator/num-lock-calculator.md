@@ -26,3 +26,5 @@ seo:
 ![NumLock Calculator](img/01-num-lock-calculator.png)
 
 [Скачать](https://drive.google.com/file/d/1A6zmd2RiQZlcjXC-PRd2GP66OsyoHp9a/view?usp=sharing)
+
+> Запускайте от имени администратора.

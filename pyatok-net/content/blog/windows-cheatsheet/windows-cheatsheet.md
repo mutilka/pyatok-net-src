@@ -2,7 +2,7 @@
 title: "Справочник комманд Windows"
 slug: windows-cheatsheet
 description: "Справочник по коммандам в терминале Windows"
-summary: ""
+summary: "Мы используем блог для анонса статей или служебных заметок. Информация в них может быть не актуальной или даже не верной! Актуальную информацию смотрите в разделе «Проекты»."
 date: 2025-06-21T00:00:01+02:00
 lastmod: 2025-06-21T00:00:02+02:00
 draft: false
@@ -19,6 +19,13 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+
+## Инициализация удаленного репозитория:
+```
+git remote add hoster ssh://gorshoch@gorshochek.by/home/gorshoch/public_html/lyasne.by
+git push -u hoster main
+```
+
 ## Как запустить «Планировщик задач»?
 
 - Нажимаем кнопку *«Пуск»* вводим **«Планировщик заданий»**, после его появления нажимаем на него.

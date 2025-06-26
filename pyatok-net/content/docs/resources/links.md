@@ -19,7 +19,11 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-# Каталог ссылок на май 2025
+# Каталог ссылок на июнь 2025
+
+## Git
+- [Git и публикация сайта](https://habr.com/ru/articles/127213/)
+- [Git bare init](https://stackoverflow.com/questions/7632454/how-do-you-use-git-bare-init-repository)
 
 ## Ресурсы для дизайна и разработки
 - [Material UI](https://material-ui.com)
@@ -28,6 +32,7 @@ seo:
 - [Figma](https://www.figma.com/)
 - [Logomaster](https://logomaster.ai/)
 - [Canva](https://www.canva.com/)
+- [Neovim](https://dev.to/kurealnum/how-i-take-notes-with-neovim-9dd?)
 
 ## Photoshop: Замена цвета
 - [Как заменить цвет на другой в Photoshop](https://lumpics.ru/how-to-replace-the-color-to-another-in-photoshop/)
@@ -92,7 +97,7 @@ seo:
 - [Повторный визит на YummyRecipes.uk спустя 3 месяца (сайт на базе Hugo)](https://dariusz.wieckiewicz.org/en/revisiting-yummyrecipes-uk-after-3-months/)
 - [Повторный визит на YummyRecipes.uk спустя 3 месяца (сайт на базе Hugo) - Обсуждение](https://discourse.gohugo.io/t/revisiting-yummyrecipes-uk-after-3-months-a-hugo-based-website/39664)
 
-## schema.org
+## Schema.org
 - [Recipe](https://schema.org/Recipe)
 
 ## Windows
