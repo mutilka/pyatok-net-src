@@ -19,7 +19,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
-
 # Markdown - это облегчённый язык разметки, который преобразует текст в структурированный HTML. Следующее руководство поможет вам разобраться, как использовать Markdown.
 
 ## Заголовки

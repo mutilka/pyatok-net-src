@@ -11,7 +11,7 @@ languageCode = "en-US"
 pagerSize = 10
 rssLimit = 10
 summarylength = 20 # 70 (default)
-publishDir = '../../pyatok-net-prod/public'
+publishDir = '../pyatok-net-prod/public'
 
 # Multilingual
 defaultContentLanguage = "en"
