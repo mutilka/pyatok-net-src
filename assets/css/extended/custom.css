@@ -1,0 +1,28 @@
+// Put your custom CSS code here
+
+.spoiler {
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    margin: 1rem 0;
+    overflow: hidden;
+    transition: all 0.2s ease;
+}
+
+.spoiler summary {
+    cursor: pointer;
+    padding: 0.75rem 1rem;
+    font-weight: 600;
+    color: #24292e;
+    background: #f6f8fa;
+    list-style: none; /* Убирает стандартную стрелку в некоторых браузерах */
+}
+
+.spoiler summary:hover {
+    background: #e1e4e8;
+}
+
+.spoiler-content {
+    padding: 1rem;
+    background: #fff;
+    border-top: 1px solid #e1e4e8;
+}
