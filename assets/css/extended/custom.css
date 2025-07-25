@@ -1,28 +1,54 @@
-// Put your custom CSS code here
-
+/* Базовые стили спойлера */
 .spoiler {
-    border: 1px solid #e1e4e8;
-    border-radius: 6px;
-    margin: 1rem 0;
+    border: 1px solid var(--border, #e1e4e8);
+    border-radius: var(--radius);
     overflow: hidden;
     transition: all 0.2s ease;
+}
+
+.highlight {
+    margin: 0 !important;
+    border-radius: 0 0 var(--radius) var(--radius) !important;
 }
 
 .spoiler summary {
     cursor: pointer;
     padding: 0.75rem 1rem;
     font-weight: 600;
-    color: #24292e;
-    background: #f6f8fa;
-    list-style: none; /* Убирает стандартную стрелку в некоторых браузерах */
+    color: var(--primary, #24292e);
+    background: var(--code-bg, #f6f8fa);
+    border-radius: var(--radius) var(--radius) 0 0;
+    list-style: none;
+    transition: background 0.2s ease;
+    position: relative; /* Для позиционирования стрелки */
+    display: flex;
+    justify-content: space-between; /* Размещает текст слева, стрелку справа */
+    align-items: center;
+}
+
+.spoiler summary::-webkit-details-marker {
+    display: none; /* Убирает стандартную стрелку в WebKit */
 }
 
 .spoiler summary:hover {
-    background: #e1e4e8;
+    background: var(--entry, #e1e4e8);
+}
+
+/* Стрелка */
+.spoiler summary::after {
+    content: '\25BC'; /* Unicode для стрелки вниз (▼) */
+    font-size: 0.8rem;
+    color: var(--primary, #24292e);
+    transition: transform 0.2s ease;
+}
+
+/* Поворот стрелки при открытии спойлера */
+.spoiler[open] summary::after {
+    transform: rotate(180deg); /* Стрелка вверх при открытии */
 }
 
 .spoiler-content {
     padding: 1rem;
-    background: #fff;
-    border-top: 1px solid #e1e4e8;
+    background: var(--background, #fff);
+    border-top: 1px solid var(--border, #e1e4e8);
 }

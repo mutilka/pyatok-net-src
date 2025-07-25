@@ -6,7 +6,6 @@ theme: ["PaperMod"]
 publishDir: ../pyatok-net-prod/public
 
 permalinks:
-  autocad: /autocad/:slug/
   posts: /posts/:slug/
   blog: /blog/:slug/
   # docs: /docs/:sections[1:]/:slug/
@@ -39,9 +38,6 @@ languages:
       series: series
     menu:
       main:
-        - name: AutoCAD
-          url: autocad
-          weight: 5  
         - name: Posts
           url: posts
           weight: 5  
