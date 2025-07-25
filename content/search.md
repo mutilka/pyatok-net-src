@@ -1,5 +1,6 @@
 ---
-title: "Search"
-placeholder: Search demo site with full text fuzzy search ...
-layout: "search"
+title: "Поиск" # заголовок на русском
+layout: "search" # обязательно для поиска
+summary: "search"
+placeholder: "Введите запрос..." # текст в поле ввода на русском
 ---
