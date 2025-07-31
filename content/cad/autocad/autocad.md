@@ -20,7 +20,6 @@ comments: false
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -30,7 +29,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: "/posts/autocad/img/01-autocad.gif" # путь к обложке поста
+  image: "/cad/autocad/img/01-autocad.gif" # путь к обложке поста
   alt: "Настройка автокада" # alt text
   caption: "Настройка AutoCAD" # display caption under cover
   relative: true # when using page bundles set this to true

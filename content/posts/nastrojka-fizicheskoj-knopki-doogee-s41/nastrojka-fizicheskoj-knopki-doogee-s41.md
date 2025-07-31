@@ -14,7 +14,7 @@ series: ["Настройка программ"]
 author: "Mitulka"
 # author: ["Mitulka", "Veroncher"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 hidemeta: false
 comments: false
 # canonicalURL: "https://canonical.url/to/page"
@@ -36,8 +36,8 @@ cover:
   relative: true # when using page bundles set this to true
   hidden: false # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/mutilka/pyatok-net-src/content"
+    Text: "Предложить изменения" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 

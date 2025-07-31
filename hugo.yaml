@@ -2,15 +2,16 @@ baseURL: https://pyatok.net/
 languageCode: ru-ru
 defaultContentLanguage: ru
 defaultContentLanguageInSubdir: false
-title: Мой Новый Сайт Hugo
+title: Pyatok.net
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 theme: ["PaperMod"]
 publishDir: ../pyatok-net-prod/public
 
 permalinks:
-  autocad: /autocad/:slug/
+  cad: /cad/:slug/
   posts: /posts/:slug/
-  blog: /blog/:slug/
+  design: /design/:slug/
+  instructions: /instructions/:slug/
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -38,11 +39,17 @@ languages:
       series: серии
     menu:
       main:
-        - name: AutoCAD
-          url: autocad
+        - name: САПР
+          url: cad
           weight: 5  
-        - name: Посты
+        - name: Заметки
           url: posts
+          weight: 5
+        - name: Дизайн
+          url: design
+          weight: 5
+        - name: Инструкции
+          url: instructions
           weight: 5  
         - name: Архив
           url: archives
