@@ -42,7 +42,7 @@ languages:
         - name: САПР
           url: cad
           weight: 5  
-        - name: Заметки
+        - name: Блог
           url: posts
           weight: 5
         - name: Дизайн
