@@ -40,7 +40,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Hello, World!
+## Hello, World 2025!
 
 ![Hello, World!](img/01-hello-world.jpg)
 

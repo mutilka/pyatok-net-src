@@ -157,15 +157,9 @@ params:
   ShowPageNums: true
   ShowToc: true
   images: ["images/papermod-cover.png"]
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.3
-    minMatchCharLength: 2
-    keys: ["title", "summary", "content"]
-
+  assets:
+    disableFingerprinting: true
+    disableHLJS: true
   profileMode:
     enabled: false
     title: PaperMod
@@ -176,7 +170,6 @@ params:
         url: archives
       - name: Теги
         url: tags
-
   homeInfoParams:
     Title: "Демо PaperMod"
     Content: >
@@ -187,7 +180,6 @@ params:
       - Поддержите нас, поставив звезду 🌟 на GitHub и поделившись с друзьями в социальных сетях.
 
       - PaperMod основана на теме [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
-
   socialIcons:
     - name: github
       title: Посмотреть исходный код на GitHub
@@ -201,14 +193,10 @@ params:
     - name: KoFi
       title: Купить мне Ko-Fi :)
       url: "https://ko-fi.com/adityatelange"
-
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
     Text: "Предложить изменения"
     appendFilePath: true
-
-assets:
-  disableHLJS: true
 
 markup:
   goldmark:
