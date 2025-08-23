@@ -29,7 +29,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: "/posts/hello-world/img/01-hello-world.jpg" # путь к обложке поста
+  image: "/posts/hello-world/img/cover-hello-world.jpg" # путь к обложке поста
   alt: "Hello, World!" # alt text
   caption: "Настройка Hello, World!" # display caption under cover
   relative: true # when using page bundles set this to true
@@ -43,3 +43,5 @@ editPost:
 ## Hello, World!
 
 ![Hello, World!](img/01-hello-world.jpg)
+
+[Скачать hello-world.zip](src/hello-world.zip)

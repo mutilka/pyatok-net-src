@@ -7,7 +7,7 @@ date: 2025-06-11T00:00:01+03:00
 lastmod: 2025-06-11T00:00:02+03:00
 draft: false
 tags: ["hugo", "настройка"]
-categories: ["заметки"]
+categories: ["Заметки"]
 series: ["Настройка программ"]
 # weight: 1
 # aliases: ["/first"] # старая ссылка с которой нужно сделать редирект
@@ -29,7 +29,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: "/posts/blog-na-gohugo/img/01-blog-na-gohugo.jpg" # путь к обложке поста
+  image: "/posts/blog-na-gohugo/img/cover-blog-na-gohugo.jpg" # путь к обложке поста
   alt: "blog-na-gohugo" # alt text
   caption: "Настройка блога на hugo" # display caption under cover
   relative: true # when using page bundles set this to true
@@ -44,7 +44,7 @@ editPost:
 
 ## Рассмотрим, как поднять, захостить и настроить деплой блога на Hugo, не потратив ни копейки (или почти).
 
-![Бесплатный хостинг и деплой блога на Hugo](img/02-blog-na-gohugo.jpg)
+![Бесплатный хостинг и деплой блога на Hugo](img/01-blog-na-gohugo.jpg)
 
 ## Не путайте Hygge и Hugo
 Hygge — датское слово, обозначающее уют и тепло. Hugo — генератор статических страниц, который обеспечивает комфорт в работе.

@@ -11,7 +11,7 @@ permalinks:
   cad: /cad/:slug/
   posts: /posts/:slug/
   design: /design/:slug/
-  instructions: /instructions/:slug/
+  tools: /tools/:slug/
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -34,9 +34,9 @@ languages:
     languageName: "Русский"
     weight: 1
     taxonomies:
-      category: категории
-      tag: теги
-      series: серии
+      category: categories
+      tag: tags
+      series: series
     menu:
       main:
         - name: САПР
@@ -48,8 +48,8 @@ languages:
         - name: Дизайн
           url: design
           weight: 5
-        - name: Инструкции
-          url: instructions
+        - name: Инструменты
+          url: tools
           weight: 5  
         - name: Архив
           url: archives
@@ -93,12 +93,15 @@ languages:
       series: series
     menu:
       main:
-        - name: AutoCAD
-          url: autocad
+        - name: CAD's
+          url: cad
           weight: 5  
         - name: Posts
           url: posts
           weight: 5  
+        - name: Tools
+          url: tools
+          weight: 5
         - name: Archive
           url: archives
           weight: 10

@@ -30,7 +30,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: "/posts/nastrojka-fizicheskoj-knopki-doogee-s41/img/title-doogee-s41-max-orange-button-tuning.jpg" # path to the post cover
+  image: "/posts/nastrojka-fizicheskoj-knopki-doogee-s41/img/cover-doogee-s41-max-orange-button-tuning.jpg" # path to the post cover
   alt: "Setting up the physical button on the Doogee S41 phone" # alt text
   caption: "Setting up the physical button on the Doogee S41 phone" # display caption under cover
   relative: true # when using page bundles set this to true
