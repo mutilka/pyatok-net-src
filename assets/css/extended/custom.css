@@ -1,4 +1,25 @@
+/* Шрифт сайта fira code */
+
+body {
+    font-family: fira code, Monaco, Consolas, ubuntu mono, verdana, monospace;
+}
+
+/* Перенос строк меню */
+
+#menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Высота меню */
+
+:root {
+    --header-height: 45px;
+}
+
 /* Базовые стили спойлера */
+
 .spoiler {
     border: 1px solid var(--border, #e1e4e8);
     border-radius: var(--radius);
