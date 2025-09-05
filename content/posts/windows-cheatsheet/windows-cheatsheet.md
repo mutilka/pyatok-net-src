@@ -4,7 +4,7 @@ description: "Справочник по коммандам в терминале
 slug: windows-cheatsheet
 summary: "Мы используем блог для анонса статей или служебных заметок. Информация в них может быть не актуальной или даже не верной! Актуальную информацию смотрите в соответствующих разделах."
 date: 2025-06-21T00:00:01+03:00
-lastmod: 2025-06-21T00:00:02+03:00
+lastmod: 2025-09-05T00:00:02+03:00
 draft: false
 tags: ["it", "windows"]
 categories: ["Заметки"]
@@ -112,4 +112,6 @@ sfc /scannow
 
 ![Подпись кнопки WWrap](img/03-windows-cheatsheet.gif)
 
-- Запишите макрос для запуска команды Toggle word wrap плагина WordWrap согласно [официальной документации](https://api.farmanager.com/ru/macro/macrokey/record.html) 
+- Запишите макрос для запуска команды Toggle word wrap плагина WordWrap согласно [официальной документации](https://api.farmanager.com/ru/macro/macrokey/record.html)
+
+> Теперь при нажатии на <kbd>Shift</kbd><kbd>+</kbd><kbd>F3</kbd> будет осуществлятся перенос виртуальных строк на экране в редакторе FAR
