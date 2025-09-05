@@ -91,3 +91,25 @@ sfc /scannow
 ```
 
 - Перезапустить Total Commander
+
+## Far Manager
+
+### Настройка плагина EditWrap — виртуальный перенос строк в редакторе
+
+- [Скачать](https://plugring.farmanager.com/plugin.php?pid=951&l=ru) и установить плагин EditWrap
+
+- Открыть папку с установленным плагином. Стандартный путь установки: C:\Program Files\Far Manager\Plugins\EditWrap.1.9\ найти и открыть файл KeyBar.farconfig
+
+- Сохранить его как: Thumbnails_KeyBar.xml
+
+- Выполнить команду
+
+```
+"%FARHOME%\Far.exe" /import Thumbnails_KeyBar.xml
+```
+
+- Это добавит кнопку VWWrap при нажатии на Shift:
+
+![Подпись кнопки WWrap](img/03-windows-cheatsheet.gif)
+
+- Запишите макрос для запуска команды Toggle word wrap плагина WordWrap согласно [официальной документации](https://api.farmanager.com/ru/macro/macrokey/record.html) 
