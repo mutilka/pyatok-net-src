@@ -40,7 +40,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Инициализация удаленного репозитория:
+## Инициализация удаленного репозитория Git
+
 ```
 git remote add hoster ssh://gorshoch@gorshochek.by/home/gorshoch/public_html/lyasne.by
 git push -u hoster main
@@ -114,4 +115,4 @@ sfc /scannow
 
 - Запишите макрос для запуска команды Toggle word wrap плагина WordWrap согласно [официальной документации](https://api.farmanager.com/ru/macro/macrokey/record.html)
 
-> Теперь при нажатии на <kbd>Shift</kbd><kbd>+</kbd><kbd>F3</kbd> будет осуществлятся перенос виртуальных строк на экране в редакторе FAR
+> Теперь при нажатии на <kbd>Shift</kbd> + <kbd>F3</kbd> будет осуществлятся перенос виртуальных строк на экране в редакторе FAR

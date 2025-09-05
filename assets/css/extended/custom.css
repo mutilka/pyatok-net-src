@@ -73,3 +73,26 @@ body {
     background: var(--background, #fff);
     border-top: 1px solid var(--border, #e1e4e8);
 }
+
+/* Оформление кнопок клавиатуры */
+
+kbd {
+    display: inline-block;
+    margin: 0 0.1em;
+    padding: 0.1em 0.6em;
+
+    font-family: system-ui, sans-serif;
+    font-size: 0.85em;
+    line-height: 1.4;
+    color: #3b3b3b;
+    text-shadow: 0 1px 0 #fff;
+
+    background-color: #e0e0e0;
+    border: 1px solid #b3b3b3;
+    border-radius: 3px;
+    box-shadow:
+    0 1px 1px rgba(0, 0, 0, 0.15),
+    inset 0 1px 0 0 #fff;
+
+    white-space: nowrap;
+}
