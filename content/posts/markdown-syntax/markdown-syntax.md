@@ -464,12 +464,32 @@ A&macr;
 
 ## Другие элементы — abbr, sub, sup, kbd, mark
 
+```
 <abbr title="Graphics Interchange Format">GIF</abbr> это формат растрового изображения.
+```
+
+<abbr title="Graphics Interchange Format">GIF</abbr> это формат растрового изображения.
+
+```
+C<sub>2</sub>H<sub>5</sub>OH
+```
 
 C<sub>2</sub>H<sub>5</sub>OH
 
+```
+X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+```
+
 X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 
+```
 Нажмите <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> для завершения сеанса.
+```
+
+Нажмите <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> для завершения сеанса.
+
+```
+Большиство <mark>salamanders</mark> ведут ночной образ жизни и охотятся на насекомых, червей и других мелких существ.
+```
 
 Большиство <mark>salamanders</mark> ведут ночной образ жизни и охотятся на насекомых, червей и других мелких существ.
