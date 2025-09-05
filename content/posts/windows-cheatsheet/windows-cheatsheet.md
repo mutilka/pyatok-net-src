@@ -14,7 +14,7 @@ series: ["Настройка программ"]
 author: "Mitulka"
 # author: ["Mitulka", "Veroncher"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 hidemeta: false
 comments: false
 # canonicalURL: "https://canonical.url/to/page"
