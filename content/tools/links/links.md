@@ -130,4 +130,4 @@ editPost:
 - [Деинсталлятор с удалением хвостов](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/tag/v5.9)
 
 ## Навигация и карты
-- [Все спутниковые карты на одном сыйте](https://nakarte.me)
+- [Все спутниковые карты на одном сайте](https://nakarte.me)
