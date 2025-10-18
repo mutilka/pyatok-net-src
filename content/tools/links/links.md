@@ -55,8 +55,22 @@ editPost:
 - [Canva](https://www.canva.com/)
 - [Neovim](https://dev.to/kurealnum/how-i-take-notes-with-neovim-9dd?)
 
-## Photoshop: Замена цвета
+## Работа с растровыми изображениями
 - [Как заменить цвет на другой в Photoshop](https://lumpics.ru/how-to-replace-the-color-to-another-in-photoshop/)
+- [Squoosh: Конвертация в WebP](https://squoosh.app)
+
+## SVG и иконки
+- [SVG Optimiser](https://petercollingridge.appspot.com/svg-optimiser)
+- [Font Awesome](https://fontawesome.com/)
+- [Flaticon](https://www.flaticon.com/)
+- [Vecteezy](https://www.vecteezy.com/)
+- [Vecta.io Nano](https://vecta.io/nano)
+- [Иконки соцсетей](https://habr.com/ru/post/135825/)
+- [Символы — когда текста не достаточно symbl.cc](https://symbl.cc/ru/)
+
+## Электрика и освещение
+- [Программа для расчета освещенности помещений DIALUX EVO](https://www.dialux.com/en-GB/)
+- [Электрик v 7.8](https://rzd2001.narod.ru/cu.html)
 
 ## Лук из чернушки
 - [Лук репчатый Ветразь](https://belniio.by/product/%d0%bb%d1%83%d0%ba-%d1%80%d0%b5%d0%bf%d1%87%d0%b0%d1%82%d1%8b%d0%b9-%d0%b2%d0%b5%d1%82%d1%80%d0%b0%d0%b7%d1%8c)
@@ -84,18 +98,6 @@ editPost:
 - [Быстрая регистрация с защитой от спама](https://wedal.ru/uroki-joomla/bystraya-registratsiya-s-zashchitoj-ot-spama-v-joomla-svoimi-rukami.html)
 - [Отключение валидации полей в Joomla 3](https://translate.google.com/translate?sl=en&tl=ru&u=https://stackoverflow.com/questions/21268615/how-to-disable-the-validation-of-some-fields-in-joomla-3-registration)
 - [Удаление ненужных полей в регистрации Joomla](https://qastack.ru/joomla/7392/joomla-registration-remove-unneeded-fields)
-
-## Конвертация изображений
-- [Squoosh: Конвертация в WebP](https://squoosh.app)
-
-## SVG и иконки
-- [SVG Optimiser](https://petercollingridge.appspot.com/svg-optimiser)
-- [Font Awesome](https://fontawesome.com/)
-- [Flaticon](https://www.flaticon.com/)
-- [Vecteezy](https://www.vecteezy.com/)
-- [Vecta.io Nano](https://vecta.io/nano)
-- [Иконки соцсетей](https://habr.com/ru/post/135825/)
-- [Символы — когда текста не достаточно symbl.cc](https://symbl.cc/ru/)
 
 ## CRM
 - [EspoCRM](https://www.espocrm.com/) *Используем*
@@ -125,6 +127,7 @@ editPost:
 - [Как закрепить любой ярлык на панели задач](https://answers.microsoft.com/ru-ru/windows/forum/all/%d0%b7%d0%b0%d0%ba%d1%80%d0%b5%d0%bf%d0%bb%d0%b5/f3384689-dfbf-4073-9789-7fd36fca8581)
 - [Класическое контекстное меню Windows](https://remontka.pro/classic-context-menu-windows-11/)
 - [Проверка и восстановление системных файлов](https://remontka.pro/taskbar-icons-missing-windows/)
+- [Деинсталлятор с удалением хвостов](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/tag/v5.9)
 
 ## Навигация и карты
 - [Все спутниковые карты на одном сыйте](https://nakarte.me)
