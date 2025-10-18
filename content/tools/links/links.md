@@ -40,7 +40,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-# Каталог ссылок (август 2025)
+# Каталог ссылок (октябрь 2025)
 
 ## Git
 - [Git и публикация сайта](https://habr.com/ru/articles/127213/)
@@ -125,3 +125,6 @@ editPost:
 - [Как закрепить любой ярлык на панели задач](https://answers.microsoft.com/ru-ru/windows/forum/all/%d0%b7%d0%b0%d0%ba%d1%80%d0%b5%d0%bf%d0%bb%d0%b5/f3384689-dfbf-4073-9789-7fd36fca8581)
 - [Класическое контекстное меню Windows](https://remontka.pro/classic-context-menu-windows-11/)
 - [Проверка и восстановление системных файлов](https://remontka.pro/taskbar-icons-missing-windows/)
+
+## Навигация и карты
+- [Все спутниковые карты на одном сыйте](https://nakarte.me)
