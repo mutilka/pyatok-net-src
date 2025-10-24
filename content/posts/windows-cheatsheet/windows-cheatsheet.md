@@ -130,3 +130,7 @@ sfc /scannow
 - Запишите макрос для запуска команды Toggle word wrap плагина WordWrap согласно [официальной документации](https://api.farmanager.com/ru/macro/macrokey/record.html)
 
 > Теперь при нажатии на <kbd>Shift</kbd> + <kbd>F3</kbd> будет осуществлятся перенос виртуальных строк на экране в редакторе FAR
+
+## Вывод классического меню (по клику правой кнопки мыши) в Windows 11
+
+[remontka.pro](https://remontka.pro/classic-context-menu-windows-11/)
