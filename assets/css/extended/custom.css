@@ -96,3 +96,12 @@ kbd {
 
     white-space: nowrap;
 }
+
+/* Реальный размер entry-cover (обложка) */
+
+.entry-cover img {
+    border-radius: var(--radius);
+    width: auto;
+    height: auto;
+    display: inline;
+}
