@@ -80,12 +80,14 @@ editPost:
 - [Nevigen](https://nevigen.com/ru/)
 - [Транслитерация для поисковиков Яндекс и Google](http://translit-online.ru/yandex.html)
 - [Настройка жестов в Chrome](https://forum.farmanager.com/viewtopic.php?t=13649)
+- [Keenetic Ultra (KN-1811)](https://4pda.to/forum/index.php?showtopic=1065475&st=8580)
 
 ## Курсы PHP
 - [Brainforce: PHP (1С)](https://brainforce.by/spec/lp/base-php/)
 - [IT-Academy: Программирование на PHP](https://www.it-academy.by/course/php-developer/pd1-programmirovanie-na-php/)
 - [Belhard: PHP](https://belhard.academy/php)
 - [IT-Courses: Курсы PHP](https://www.it-courses.by/courses/kursy-php-programmirovaniye/)
+- [Как решать LeetCode? Легко! Нужно просто…](https://habr.com/ru/articles/964104/)
 
 ## Joomla
 ### Дубли страниц
