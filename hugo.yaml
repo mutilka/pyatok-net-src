@@ -12,6 +12,7 @@ permalinks:
   posts: /posts/:slug/
   design: /design/:slug/
   tools: /tools/:slug/
+  energy: /energy/:slug/
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -51,6 +52,9 @@ languages:
         - name: Инструменты
           url: tools
           weight: 5  
+        - name: Энергетика
+          url: energy
+          weight: 5
         - name: Архив
           url: archives
           weight: 10
@@ -101,6 +105,9 @@ languages:
           weight: 5  
         - name: Tools
           url: tools
+          weight: 5
+        - name: Energy
+          url: energy
           weight: 5
         - name: Archive
           url: archives
