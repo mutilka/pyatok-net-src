@@ -164,9 +164,11 @@ params:
   ShowPageNums: true
   ShowToc: true
   images: ["images/papermod-cover.png"]
-  # Добавляем сюда мета-тег Яндекса
-  meta: - name: "yandex-verification"
-  content: "50d4b369700ff42f"
+  
+  # Вебмастер
+  analytics:
+    yandex:
+      SiteVerificationTag: "50d4b369700ff42f"
   
   assets:
     disableFingerprinting: true
