@@ -150,6 +150,9 @@ outputs:
 
 params:
   env: production
+  analytics:
+    yandex:
+        id: "50d4b369700ff42f"
   description: "Тема PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   author: Theme PaperMod
   defaultTheme: auto
