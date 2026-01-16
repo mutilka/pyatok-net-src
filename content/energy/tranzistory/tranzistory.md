@@ -29,7 +29,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: "/energy/tranzistory/img/cover-tranzistory.jpg" # путь к обложке поста
+  image: "/energy/tranzistory/img/cover-tranzistory.png" # путь к обложке поста
   alt: "Транзисторы" # alt text
   caption: "Транзисторы" # display caption under cover
   relative: true # when using page bundles set this to true
@@ -44,7 +44,6 @@ editPost:
 
 Давайте поговорим о транзисторах.
 
-Внутри металлического инкапсулированного транзистора в корпусе TO-18.
-Транзистор представляет собой небольшой кремниевый куб с проводами, соединяющими 3 вывода, один из которых подключен к металлическому корпусу.
+Внутри металлический инкапсулированный транзистора в корпусе TO-18 представляет собой небольшой кремниевый куб с проводами, соединяющими 3 вывода, один из которых подключен к металлическому корпусу.
 
 ![Легендарный транзистор 2N2222](img/2N2222-transistor.jpg)
