@@ -12,7 +12,9 @@ permalinks:
   posts: /posts/:slug/
   design: /design/:slug/
   tools: /tools/:slug/
-  energy: /energy/:slug/
+  # energy: /energy/:slug/
+  energy: /:sections/:slug/
+  
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -67,6 +69,7 @@ languages:
         - name: WiKi
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
     params:
+      math: true
       languageAltTitle: Русский
       profileMode:
         enabled: true
