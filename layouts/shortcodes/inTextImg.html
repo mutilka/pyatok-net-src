@@ -1,0 +1,13 @@
+<!-- layouts/shortcodes/inTextImg.html -->
+{{ $image := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $caption := .Get "caption" | default "" }}
+{{ $width := .Get "width" | default "auto" }}
+{{ $class := .Get "class" | default "" }}
+
+<figure class="in-text-img {{ $class }}">
+    <img src="{{ $image }}" alt="{{ $alt }}" style="width: {{ $width }};" loading="lazy">
+    {{ if $caption }}
+    <figcaption>{{ $caption }}</figcaption>
+    {{ end }}
+</figure>

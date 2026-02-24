@@ -1,0 +1,11 @@
+<!-- layouts/shortcodes/collapse.html -->
+{{ $id := .Get "id" | default (printf "collapse-%d" .Ordinal) }}
+{{ $title := .Get "title" | default "Подробнее" }}
+{{ $expanded := .Get "expanded" | default false }}
+
+<details class="collapse" {{ if $expanded }}open{{ end }}>
+    <summary class="collapse-title">{{ $title }}</summary>
+    <div class="collapse-content">
+        {{ .Inner | markdownify }}
+    </div>
+</details>
