@@ -12,10 +12,14 @@ body {
     justify-content: center;
 }
 
-/* Высота меню */
+/* Размер заголовка h1 статьи */
+.post-title, .post-content h1 {
+    font-size: 1.5rem;       /* 40px / 16px = 2.5rem; (1rem = 16px) */
+}
 
-:root {
-    --header-height: 45px;
+/* Размер заголовка h1 страницы */
+.page-header h1 {
+    font-size: 2rem;
 }
 
 /* Базовые стили спойлера */
