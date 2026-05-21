@@ -1,0 +1,12 @@
+Обновление EspoCRM через терминал
+
+Как обновлять EspoCRM с помощью интерфейса командной строки CLI на hoster.by:
+
+
+Официальная ссылка: https://docs.espocrm.com/administration/upgrading/
+
+Мои шаги в терминале:
+
+cd public_html
+cd beegood.by/crm/
+php command.php upgrade
