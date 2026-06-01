@@ -1,23 +1,43 @@
 ﻿---
 title: "План реконструкции д. Клинок, ул. Молодежная, д.36"
-slug: klinok-mol-36
 description: "План реконструкции д. Клинок, ул. Молодежная, д.36"
-summary: "Мы используем блог для анонса статей или служебных заметок. Информация в них может быть не актуальной или даже не верной! Актуальную информацию смотрите в разделе «Проекты»."
+slug: klinok-mol-36
+summary: "Мы используем блог для анонса статей или служебных заметок. Информация в них может быть не актуальной или даже не верной! Актуальную информацию смотрите в соответствующих разделах."
 date: 2025-06-28T00:00:01+02:00
-lastmod: 2025-06-28T00:00:02+02:00
+lastmod: 2026-06-01T00:00:02+02:00
 draft: false
-weight:
-toc: true
-categories: []
 tags: [rebuild, klinok]
-contributors: [mitulka]
-pinned: false
-homepage: false
-seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  robots: "" # custom robot tags (optional)
+categories: ["Klinok"]
+series: ["Реконструкция"]
+# weight: 1
+# aliases: ["/first"] # старая ссылка с которой нужно сделать редирект
+author: "Mitulka"
+# author: ["Mitulka", "Veroncher"] # multiple authors
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+# canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+  image: "/posts/hello-world/img/cover-hello-world.jpg" # путь к обложке поста
+  alt: "Hello, World!" # alt text
+  caption: "Настройка Hello, World!" # display caption under cover
+  relative: true # when using page bundles set this to true
+  hidden: false # only hide on current single page
+editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 ![](img/klinok-mol-36.svg)
@@ -31,6 +51,8 @@ seo:
 # Интерактивная карта участка на Hugo с SVG и JSON
 
 Отличная идея — создать интерактивную карту вашего участка в деревне! Использование **SVG** для визуальной части и **JSON** для данных, интегрированных в ваш сайт на **Hugo** с темой `hugo docs`, — это мощное и гибкое решение. Вот подробная инструкция, как это реализовать:
+
+{{< klinok-map >}}
 
 ---
 
