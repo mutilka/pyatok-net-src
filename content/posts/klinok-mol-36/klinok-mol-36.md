@@ -3,12 +3,12 @@ title: "План реконструкции д. Клинок, ул. Молоде
 description: "План реконструкции д. Клинок, ул. Молодежная, д.36"
 slug: klinok-mol-36
 summary: "Мы используем блог для анонса статей или служебных заметок. Информация в них может быть не актуальной или даже не верной! Актуальную информацию смотрите в соответствующих разделах."
-date: 2025-06-28T00:00:01+02:00
+date: 2026-06-01T00:00:01+02:00
 lastmod: 2026-06-01T00:00:02+02:00
 draft: false
 tags: [rebuild, klinok]
-categories: ["Klinok"]
-series: ["Реконструкция"]
+# categories: ["Klinok"]
+# series: ["Реконструкция"]
 # weight: 1
 # aliases: ["/first"] # старая ссылка с которой нужно сделать редирект
 author: "Mitulka"
@@ -29,9 +29,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: "/posts/hello-world/img/cover-hello-world.jpg" # путь к обложке поста
-  alt: "Hello, World!" # alt text
-  caption: "Настройка Hello, World!" # display caption under cover
+  image: "" # путь к обложке поста
+  alt: "" # alt text
+  caption: "" # display caption under cover
   relative: true # when using page bundles set this to true
   hidden: false # only hide on current single page
 editPost:
@@ -40,7 +40,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-![](img/klinok-mol-36.svg)
+<iframe src="/klinok-map.html" width="100%" height="1618px" style="border:none;" scrolling="no"></iframe>
 
 ## ToDo:
 
@@ -48,11 +48,12 @@ editPost:
 - [x] ~~Сделать подложку с черезстрочной заливкой~~
 - [x] Добавить интерактивность к дереву
 
+{{< klinok-map >}}
+
 # Интерактивная карта участка на Hugo с SVG и JSON
 
 Отличная идея — создать интерактивную карту вашего участка в деревне! Использование **SVG** для визуальной части и **JSON** для данных, интегрированных в ваш сайт на **Hugo** с темой `hugo docs`, — это мощное и гибкое решение. Вот подробная инструкция, как это реализовать:
 
-{{< klinok-map >}}
 
 ---
 
@@ -251,7 +252,7 @@ editPost:
         Наведите курсор на элементы, чтобы узнать о них больше и увидеть запланированные работы.
 
 ```
-        {{< interactive_map svg_path="/images/plot_plan.svg" >}}
+         interactive_map svg_path="/images/plot_plan.svg" >}}
 ```
 
         Это мой дом и прилегающая территория. Здесь вы найдете информацию о расположении деревьев, грядок, построек и задачах по уходу за ними.
