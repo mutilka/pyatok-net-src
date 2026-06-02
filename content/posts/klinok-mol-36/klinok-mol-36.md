@@ -7,9 +7,9 @@ date: 2026-06-01T00:00:01+02:00
 lastmod: 2026-06-01T00:00:02+02:00
 draft: false
 tags: [rebuild, klinok]
-# categories: ["Klinok"]
-# series: ["Реконструкция"]
-# weight: 1
+categories: [""]
+series: [""]
+weight: 1
 # aliases: ["/first"] # старая ссылка с которой нужно сделать редирект
 author: "Mitulka"
 # author: ["Mitulka", "Veroncher"] # multiple authors
@@ -54,6 +54,10 @@ editPost:
 
 Отличная идея — создать интерактивную карту вашего участка в деревне! Использование **SVG** для визуальной части и **JSON** для данных, интегрированных в ваш сайт на **Hugo** с темой `hugo docs`, — это мощное и гибкое решение. Вот подробная инструкция, как это реализовать:
 
+
+---
+
+{{< klinok-map-ladscape >}}
 
 ---
 
